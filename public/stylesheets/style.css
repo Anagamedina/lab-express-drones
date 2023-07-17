@@ -1,8 +1,26 @@
 body {
   padding: 50px;
   font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;
+
 }
 
 a {
   color: #00b7ff;
+}
+.drone-image {
+  width: 100%;
+  height: auto;
+}
+.jumbotron {
+  background-image: url(ruta/a/drone-background.jpg);
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+.drones-list {
+  margin: 20px;
+}
+.gray-button {
+  background-color: #ccc;
+  color: #fff;
 }
